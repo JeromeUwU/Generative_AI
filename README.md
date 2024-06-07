@@ -2,7 +2,9 @@
 
 This repository primarily focuses on the development of various generative AI models, encompassing speech-to-text, text-to-text and text-to-speech functionalities, with the ultimate aim of creating a comprehensive personal AI vocal chatbot. 
 
-All models will be trained using publicly accessible datasets from GitHub or Kaggle, utilizing Kaggle GPU or Colab GPU resources. The models will be based on freely available pretrained models. This repository will include a step-by-step tutorial to guide users in achieving the final Vocal Chat Bot.
+All models will be trained using publicly accessible datasets from GitHub or Kaggle, utilizing Kaggle GPU or Colab GPU resources. The models will be based on freely available pretrained models. 
+
+This repository will include a step-by-step tutorial to guide users in achieving the final Vocal Chat Bot.
 
 ## speech-to-text
 
