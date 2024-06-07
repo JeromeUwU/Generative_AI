@@ -20,7 +20,7 @@ Text-to-Speech (TTS) involves generating natural-sounding speech from given text
 The Hugging Face Hub offers over 1500 TTS models ready for use. Alternatively, models like WaveGlow or Tacotron2, available at the NVIDIA Tacotron2 GitHub repository, can be employed. However, in this case, I opted to create a custom TTS model based on the paper titled "Neural Speech Synthesis with Transformer Network."
 
 The model was implemented and trained on Kaggle using a GPU P100. This approach allows for flexibility and customization in developing a TTS solution tailored to specific requirements.
-
+The Dataset used for the training is the The LJ Speech Dataset accessible from Kaagle 
 
 *Theorie will be vulgarized*
 
