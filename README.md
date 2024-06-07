@@ -2,6 +2,9 @@
 
 This repository primarily focuses on the development of various generative AI models, encompassing speech-to-text, text-to-text and text-to-speech functionalities, with the ultimate aim of creating a comprehensive personal AI vocal chatbot. All models will be trained using publicly accessible datasets from GitHub or Kaggle, utilizing Kaggle GPU or Colab GPU resources. The models will be based on freely available pretrained models. This repository will include a step-by-step tutorial to guide users in achieving the final Vocal Chat Bot.
 
+## speech-to-text
+
+
 ## text-to-text 
 
 The text-to-text model will be based on the pretrained FLAN-T5. For computational purposes, I used **google/flan-t5-small**, but better performance may be achieved with **google/flan-t5-large**. FLAN-T5 was introduced in the paper "Scaling Instruction-Finetuned Language Models." It's an enhanced version of T5 that has been fine-tuned across a mixture of tasks. You can find more information about it in the Hugging Face documentation https://huggingface.co/docs/transformers/en/model_doc/flan-t5.
