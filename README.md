@@ -23,4 +23,5 @@ The model was implemented and trained on Kaggle using a GPU P100. This approach 
 
 
 *Theorie will be vulgarized*
+
 *Implementation will be up soon* 
