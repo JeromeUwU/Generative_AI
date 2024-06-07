@@ -11,7 +11,7 @@ The text-to-text model will be based on the pretrained FLAN-T5. For computationa
 
 The notebook provided offers a basic fine-tuning algorithm that's versatile and can be enhanced and customized for various tasks and different large language models like GPT-4, ChatGPT, Llama, and others.The fine-tuned T5 model was trained for 10 epochs on a GPU P100 on Kaggle and took around 3 hours of training. The training dataset is sourced from the Bitext Customer Support LLM Chatbot Training Dataset, which is accessible from Hugging Face https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset.
 
-*Implementation will be up soon*
+*file will be update with different prompt example* 
 
 ## text-to-speech
 
