@@ -8,7 +8,16 @@ The text-to-text model will be based on the pretrained FLAN-T5. For computationa
 
 The provided notebook is a simple fine-tuning algorithm that can be improved and adapted for different large language models, such as GPT-4, ChatGPT, Llama, and more. The fine-tuned T5 model was trained for 15 epochs on a GPU P100 on Kaggle and took around 3 hours of training. The training dataset is sourced from the Bitext Customer Support LLM Chatbot Training Dataset, which is accessible from Hugging Face https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset.
 
-Implementation will be up soon 
+*Implementation will be up soon*
 
 ## text-to-speech
 
+Text-to-Speech (TTS) involves generating natural-sounding speech from given text input. TTS models find applications in various speech-enabled systems like voice assistants or announcement systems, where converting text into speech resembling human voice is required.
+
+The Hugging Face Hub offers over 1500 TTS models ready for use. Alternatively, models like WaveGlow or Tacotron2, available at the NVIDIA Tacotron2 GitHub repository, can be employed. However, in this case, I opted to create a custom TTS model based on the paper titled "Neural Speech Synthesis with Transformer Network."
+
+The model was implemented and trained on Kaggle using a GPU P100. This approach allows for flexibility and customization in developing a TTS solution tailored to specific requirements.
+
+
+*Theorie will be vulgarized*
+*Implementation will be up soon* 
