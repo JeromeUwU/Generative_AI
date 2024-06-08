@@ -19,7 +19,7 @@ The notebook provided offers a basic fine-tuning algorithm that's versatile and 
 
 The fine-tuned T5 model was trained for 10 epochs on a GPU P100 on Kaggle and took around 3 hours of training. The training dataset is sourced from the Bitext Customer Support LLM Chatbot Training Dataset, which is accessible from Hugging Face https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset.
 
-*file will be update with different prompt example* 
+
 
 ## text-to-speech
 
