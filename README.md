@@ -45,15 +45,15 @@ The model is constructed following those principal:
 - Predicting mel spectograms (post-net)
 
 
-   #### Getting long-term context of input text (encoder pre-net)
+####  (encoder pre-net)
 
-   #### Projecting the mel spectrograms into the same subspace as the text (decoder pre-net)
+####  (decoder pre-net)
 
-   #### Building relationships between the input text (encoder)
+####  (encoder)
 
-   #### Integrating those relationships to mel spectograms embedingst (decoder)
+####  (decoder)
 
-   #### Predicting mel spectograms (post-net)
+####  (post-net)
 
   
 
