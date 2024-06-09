@@ -38,11 +38,12 @@ In the paper they used a Text-to-Phoneme Converter, for my model I choose a alph
 
 The model is constructed following those principal:
 
-- Getting long-term context of input text
-- Projecting the mel spectrograms into the same subspace as the text 
-- Building relationships between the input text
-- Integrating those relationships to mel spectograms embedings 
-- Predicting mel spectograms
+- Getting long-term context of input text (encoder pre-net)
+- Projecting the mel spectrograms into the same subspace as the text (decoder pre-net)
+- Building relationships between the input text (encoder)
+- Integrating those relationships to mel spectograms embedingst (decoder)
+- Predicting mel spectograms (post-net)
+
 
   #### Getting long-term context of input text
 
