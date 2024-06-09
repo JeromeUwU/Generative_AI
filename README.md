@@ -30,9 +30,9 @@ The Hugging Face Hub offers over 1500 TTS models ready for use. Alternatively, m
 The model was implemented and trained on Kaggle using a GPU P100. This approach allows for flexibility and customization in developing a TTS solution tailored to specific requirements.
 The Dataset used for the training is the The LJ Speech Dataset accessible from Kaagle.
 
-*Theorie will be vulgarized*
+*Theory will be vulgarized*
 
-### TransformersTTS 
+### TransformersTTS Theory
 
 In the paper they used a Text-to-Phoneme Converter, for my model I choose a alphabet representation instead of phoneme *(note: in futur implementation phoneme may be use)*.
 
@@ -54,6 +54,8 @@ The model is constructed following those principal:
 ####  (decoder)
 
 ####  (post-net)
+
+### TransformersTTS Implementation
 
   
 
