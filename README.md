@@ -57,6 +57,8 @@ The model is constructed following those principal:
 
 ### TransformersTTS Implementation
 
+TransformersTTS still in training ....
+
   
 
 
