@@ -30,6 +30,10 @@ The Hugging Face Hub offers over 1500 TTS models ready for use. Alternatively, m
 The model was implemented and trained on Kaggle using a GPU P100. This approach allows for flexibility and customization in developing a TTS solution tailored to specific requirements.
 The Dataset used for the training is the The LJ Speech Dataset accessible from Kaagle.
 
+Due to Kaggle GPU availability, training can be done for 30 hours per session because of GPU limitations.
+
+Model will not be fine-tuned.
+
 *Theory will be vulgarized*
 
 ### TransformersTTS Theory
