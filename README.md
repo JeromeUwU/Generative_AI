@@ -61,7 +61,7 @@ The model is constructed following those principal:
 
 ### TransformersTTS Implementation
 
-TransformersTTS still in training ....
+The first sound file named *TTS_file_test.wav* in *TTS-file* is the result after 20 hours of training 
 
   
 
