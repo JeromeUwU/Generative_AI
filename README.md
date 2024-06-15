@@ -8,6 +8,8 @@ This repository will include a step-by-step tutorial to guide users in achieving
 
 ## speech-to-text
 
+*Research phase...*
+
 
 ## text-to-text 
 
