@@ -63,6 +63,8 @@ The model is constructed following those principal:
 
 ### TransformersTTS Implementation
 
+To test the tts with different training time I will use this text : **Hello my name is Jérôme and I like Data Science and Artificial Intelligence.**
+
 The first sound file named *TTS_file_test.wav* in *TTS-file* is the result after 20 hours of training 
 
   
