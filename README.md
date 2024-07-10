@@ -34,9 +34,6 @@ The Dataset used for the training is the The LJ Speech Dataset accessible from K
 
 Due to Kaggle GPU availability, training can be done for 30 hours per session because of GPU limitations.
 
-Model will not be fine-tuned.
-
-*Theory will be vulgarized*
 
 ### TransformersTTS Theory
 
@@ -49,19 +46,6 @@ The model is constructed following those principal:
 - Building relationships between the input text (encoder)
 - Integrating those relationships to mel spectograms embedingst (decoder)
 - Predicting mel spectograms (post-net)
-
-
-####  (encoder pre-net)
-
-####  (decoder pre-net)
-
-####  (encoder)
-
-####  (decoder)
-
-####  (post-net)
-
-### TransformersTTS Implementation
 
 To test the tts with different training time I will use this text : **Hello my name is Jérôme and I like Data Science and Artificial Intelligence.**
 
